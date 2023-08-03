@@ -1,0 +1,571 @@
+top - 16:22:05 up 39 days,  7:04,  4 users,  load average: 1.40, 1.36, 1.30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  1.6 sy,  0.0 ni, 95.5 id,  0.2 wa,  0.0 hi,  0.3 si,  0.0 st
+KiB Mem : 24669976 total, 16972052 free,  2697812 used,  5000112 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21419520 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  177656  20864  19232 R  33.3  0.1   0:00.05 postgres
+
+top - 16:22:06 up 39 days,  7:04,  4 users,  load average: 1.40, 1.36, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.9 us,  2.3 sy,  0.0 ni, 88.9 id,  4.8 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16972052 free,  2697812 used,  5000112 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21419520 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  177656  32680  31048 S  34.7  0.1   0:00.40 postgres
+
+top - 16:22:07 up 39 days,  7:04,  4 users,  load average: 1.40, 1.36, 1.30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10.2 us,  5.3 sy,  0.0 ni, 78.3 id,  4.5 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem : 24669976 total, 16972052 free,  2697812 used,  5000112 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21419520 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  177656  32680  31048 R  37.0  0.1   0:00.77 postgres
+
+top - 16:22:08 up 39 days,  7:04,  4 users,  load average: 1.40, 1.36, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.8 us,  2.1 sy,  0.0 ni, 89.3 id,  4.7 wa,  0.0 hi,  0.0 si,  0.1 st
+KiB Mem : 24669976 total, 16973328 free,  2696372 used,  5000276 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21420936 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  177656  32680  31048 D  34.0  0.1   0:01.11 postgres
+
+top - 16:22:09 up 39 days,  7:04,  4 users,  load average: 1.36, 1.35, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.8 us,  1.7 sy,  0.0 ni, 89.6 id,  4.7 wa,  0.0 hi,  0.3 si,  0.0 st
+KiB Mem : 24669976 total, 16973328 free,  2696372 used,  5000276 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21420936 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  177656  32680  31048 D  34.0  0.1   0:01.45 postgres
+
+top - 16:22:10 up 39 days,  7:04,  4 users,  load average: 1.36, 1.35, 1.30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.3 us,  1.6 sy,  0.0 ni, 90.2 id,  4.9 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16973328 free,  2696372 used,  5000276 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21420936 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  177656  32680  31048 R  33.0  0.1   0:01.78 postgres
+
+top - 16:22:11 up 39 days,  7:04,  4 users,  load average: 1.36, 1.35, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.5 us,  1.9 sy,  0.0 ni, 89.9 id,  4.7 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16972596 free,  2697008 used,  5000372 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21420320 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  177656  35872  34240 D  34.0  0.1   0:02.12 postgres
+
+top - 16:22:12 up 39 days,  7:04,  4 users,  load average: 1.36, 1.35, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.4 us,  4.2 sy,  0.0 ni, 83.4 id,  4.4 wa,  0.0 hi,  0.6 si,  0.0 st
+KiB Mem : 24669976 total, 16972596 free,  2697008 used,  5000372 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21420320 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  177656  35872  34240 D  34.0  0.1   0:02.46 postgres
+
+top - 16:22:13 up 39 days,  7:04,  4 users,  load average: 1.36, 1.35, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.4 us,  2.3 sy,  0.0 ni, 89.1 id,  4.9 wa,  0.0 hi,  0.3 si,  0.0 st
+KiB Mem : 24669976 total, 16972596 free,  2697008 used,  5000372 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21420320 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  177656  35872  34240 D  33.7  0.1   0:02.80 postgres
+
+top - 16:22:14 up 39 days,  7:04,  4 users,  load average: 1.34, 1.34, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.9 us,  2.4 sy,  0.1 ni, 88.8 id,  4.8 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16969776 free,  2699716 used,  5000484 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21417616 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  177656  35872  34240 D  34.0  0.1   0:03.14 postgres
+
+top - 16:22:15 up 39 days,  7:04,  4 users,  load average: 1.34, 1.34, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.8 us,  2.6 sy,  0.0 ni, 88.7 id,  4.7 wa,  0.0 hi,  0.2 si,  0.0 st
+KiB Mem : 24669976 total, 16969776 free,  2699716 used,  5000484 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21417616 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  177656  35872  34240 D  33.0  0.1   0:03.47 postgres
+
+top - 16:22:16 up 39 days,  7:04,  4 users,  load average: 1.34, 1.34, 1.30
+Tasks:   1 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.1 us,  3.0 sy,  0.0 ni, 85.1 id,  2.8 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16969776 free,  2699716 used,  5000484 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21417616 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  177656  35872  34240 t  19.0  0.1   0:03.66 postgres
+
+top - 16:22:17 up 39 days,  7:04,  4 users,  load average: 1.34, 1.34, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.8 us,  2.1 sy,  0.0 ni, 88.7 id,  0.5 wa,  0.0 hi,  0.8 si,  0.1 st
+KiB Mem : 24669976 total, 16929892 free,  2739324 used,  5000760 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21378008 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S   0.0  0.2   0:03.66 postgres
+
+top - 16:22:18 up 39 days,  7:04,  4 users,  load average: 1.34, 1.34, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.2 us,  2.8 sy,  0.0 ni, 92.1 id,  0.2 wa,  0.0 hi,  0.7 si,  0.0 st
+KiB Mem : 24669976 total, 16929892 free,  2739324 used,  5000760 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21378008 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S   4.0  0.2   0:03.70 postgres
+
+top - 16:22:19 up 39 days,  7:04,  4 users,  load average: 1.23, 1.32, 1.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.6 us,  1.2 sy,  0.0 ni, 97.0 id,  0.2 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16929892 free,  2739324 used,  5000760 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21378008 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S   5.0  0.2   0:03.75 postgres
+
+top - 16:22:20 up 39 days,  7:04,  4 users,  load average: 1.23, 1.32, 1.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.8 us,  1.0 sy,  0.0 ni, 97.1 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16930432 free,  2738740 used,  5000804 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21378592 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S   8.9  0.2   0:03.84 postgres
+
+top - 16:22:21 up 39 days,  7:04,  4 users,  load average: 1.23, 1.32, 1.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.0 us,  0.7 sy,  0.0 ni, 97.0 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16930432 free,  2738740 used,  5000804 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21378592 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S  11.0  0.2   0:03.95 postgres
+
+top - 16:22:22 up 39 days,  7:04,  4 users,  load average: 1.23, 1.32, 1.29
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.0 us,  0.7 sy,  0.0 ni, 97.2 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16930432 free,  2738740 used,  5000804 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21378592 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 R  15.0  0.2   0:04.10 postgres
+
+top - 16:22:23 up 39 days,  7:04,  4 users,  load average: 1.23, 1.32, 1.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10.6 us,  5.5 sy,  0.0 ni, 81.5 id,  0.3 wa,  0.0 hi,  2.0 si,  0.1 st
+KiB Mem : 24669976 total, 16931680 free,  2737428 used,  5000868 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21379900 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S  17.0  0.2   0:04.27 postgres
+
+top - 16:22:24 up 39 days,  7:04,  4 users,  load average: 1.13, 1.30, 1.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.7 us,  2.1 sy,  0.0 ni, 93.8 id,  0.2 wa,  0.0 hi,  0.3 si,  0.0 st
+KiB Mem : 24669976 total, 16931680 free,  2737428 used,  5000868 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21379900 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S  21.0  0.2   0:04.48 postgres
+
+top - 16:22:25 up 39 days,  7:04,  4 users,  load average: 1.13, 1.30, 1.28
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.1 us,  0.8 sy,  0.0 ni, 96.0 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16931680 free,  2737428 used,  5000868 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21379900 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 R  23.0  0.2   0:04.71 postgres
+
+top - 16:22:26 up 39 days,  7:04,  4 users,  load average: 1.13, 1.30, 1.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.4 us,  0.9 sy,  0.0 ni, 94.5 id,  0.1 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16930932 free,  2738080 used,  5000964 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21379208 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S  26.0  0.2   0:04.97 postgres
+
+top - 16:22:27 up 39 days,  7:04,  4 users,  load average: 1.13, 1.30, 1.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.8 us,  0.8 sy,  0.0 ni, 95.2 id,  0.2 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16930932 free,  2738080 used,  5000964 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21379208 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S  28.7  0.2   0:05.26 postgres
+
+top - 16:22:28 up 39 days,  7:04,  4 users,  load average: 1.13, 1.30, 1.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.1 us,  4.2 sy,  0.0 ni, 85.2 id,  0.2 wa,  0.0 hi,  1.4 si,  0.0 st
+KiB Mem : 24669976 total, 16930932 free,  2738080 used,  5000964 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21379208 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S  30.0  0.2   0:05.56 postgres
+
+top - 16:22:29 up 39 days,  7:04,  4 users,  load average: 1.04, 1.28, 1.28
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.2 us,  1.2 sy,  0.0 ni, 94.3 id,  0.1 wa,  0.0 hi,  0.3 si,  0.0 st
+KiB Mem : 24669976 total, 16930172 free,  2738776 used,  5001028 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21378548 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 R  29.0  0.2   0:05.85 postgres
+
+top - 16:22:30 up 39 days,  7:04,  4 users,  load average: 1.04, 1.28, 1.28
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.4 us,  1.1 sy,  0.0 ni, 95.3 id,  0.2 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16930172 free,  2738776 used,  5001028 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21378548 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 R  30.0  0.2   0:06.15 postgres
+
+top - 16:22:31 up 39 days,  7:04,  4 users,  load average: 1.04, 1.28, 1.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.5 us,  0.9 sy,  0.0 ni, 95.4 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16930172 free,  2738776 used,  5001028 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21378548 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S  30.0  0.2   0:06.45 postgres
+
+top - 16:22:32 up 39 days,  7:04,  4 users,  load average: 1.04, 1.28, 1.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.2 us,  1.1 sy,  0.0 ni, 94.6 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16929100 free,  2739840 used,  5001036 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21377488 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S  29.0  0.2   0:06.74 postgres
+
+top - 16:22:33 up 39 days,  7:04,  4 users,  load average: 1.04, 1.28, 1.28
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.6 us,  2.7 sy,  0.0 ni, 89.7 id,  0.2 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem : 24669976 total, 16929100 free,  2739840 used,  5001036 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21377488 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 R  30.0  0.2   0:07.04 postgres
+
+top - 16:22:34 up 39 days,  7:04,  4 users,  load average: 0.95, 1.26, 1.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.1 us,  3.4 sy,  0.1 ni, 88.3 id,  0.3 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem : 24669976 total, 16929100 free,  2739840 used,  5001036 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21377488 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S  29.7  0.2   0:07.34 postgres
+
+top - 16:22:35 up 39 days,  7:04,  4 users,  load average: 0.95, 1.26, 1.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.9 us,  0.6 sy,  0.0 ni, 95.2 id,  0.2 wa,  0.0 hi,  0.2 si,  0.0 st
+KiB Mem : 24669976 total, 16928596 free,  2740292 used,  5001088 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21377040 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S  29.0  0.2   0:07.63 postgres
+
+top - 16:22:36 up 39 days,  7:04,  4 users,  load average: 0.95, 1.26, 1.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.8 us,  1.2 sy,  0.0 ni, 94.8 id,  0.2 wa,  0.0 hi,  0.0 si,  0.1 st
+KiB Mem : 24669976 total, 16928596 free,  2740292 used,  5001088 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21377040 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  185524  37156  35500 S  30.0  0.2   0:07.93 postgres
+
+top - 16:22:37 up 39 days,  7:04,  4 users,  load average: 0.95, 1.26, 1.27
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.5 us,  0.8 sy,  0.0 ni, 94.4 id,  1.2 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16928596 free,  2740292 used,  5001088 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21377040 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  38372  36644 R  30.0  0.2   0:08.23 postgres
+
+top - 16:22:38 up 39 days,  7:04,  4 users,  load average: 0.95, 1.26, 1.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.9 us,  1.9 sy,  0.0 ni, 89.6 id,  4.6 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16975192 free,  2693660 used,  5001124 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21423668 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  38372  36644 D  36.0  0.2   0:08.59 postgres
+
+top - 16:22:39 up 39 days,  7:04,  4 users,  load average: 1.12, 1.29, 1.28
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11.2 us,  7.0 sy,  0.0 ni, 74.4 id,  5.4 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem : 24669976 total, 16975192 free,  2693660 used,  5001124 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21423668 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  38372  36644 R  27.0  0.2   0:08.86 postgres
+
+top - 16:22:40 up 39 days,  7:04,  4 users,  load average: 1.12, 1.29, 1.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.1 us,  2.1 sy,  0.0 ni, 89.7 id,  5.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16975192 free,  2693660 used,  5001124 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21423668 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  38372  36644 D  31.7  0.2   0:09.18 postgres
+
+top - 16:22:41 up 39 days,  7:04,  4 users,  load average: 1.12, 1.29, 1.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.9 us,  2.0 sy,  0.0 ni, 89.0 id,  4.9 wa,  0.0 hi,  0.2 si,  0.0 st
+KiB Mem : 24669976 total, 16974772 free,  2693936 used,  5001268 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21423392 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  38372  36644 D  34.0  0.2   0:09.52 postgres
+
+top - 16:22:42 up 39 days,  7:04,  4 users,  load average: 1.12, 1.29, 1.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.6 us,  1.7 sy,  0.0 ni, 89.8 id,  4.9 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16974772 free,  2693936 used,  5001268 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21423392 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  38372  36644 D  34.0  0.2   0:09.86 postgres
+
+top - 16:22:43 up 39 days,  7:04,  4 users,  load average: 1.12, 1.29, 1.28
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.0 us,  1.6 sy,  0.0 ni, 90.9 id,  4.6 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16974772 free,  2693936 used,  5001268 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21423392 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  38372  36644 R  36.0  0.2   0:10.22 postgres
+
+top - 16:22:44 up 39 days,  7:04,  4 users,  load average: 1.27, 1.31, 1.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.6 us,  5.7 sy,  0.1 ni, 79.7 id,  4.4 wa,  0.0 hi,  1.4 si,  0.1 st
+KiB Mem : 24669976 total, 16974272 free,  2694328 used,  5001376 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21423004 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  38372  36644 D  35.0  0.2   0:10.57 postgres
+
+top - 16:22:45 up 39 days,  7:04,  4 users,  load average: 1.27, 1.31, 1.29
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.3 us,  1.7 sy,  0.0 ni, 90.6 id,  4.5 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16974272 free,  2694328 used,  5001376 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21423004 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  38372  36644 R  36.0  0.2   0:10.93 postgres
+
+top - 16:22:46 up 39 days,  7:04,  4 users,  load average: 1.27, 1.31, 1.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.0 us,  1.9 sy,  0.0 ni, 89.7 id,  5.2 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16974272 free,  2694328 used,  5001376 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21423004 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  38372  36644 S  34.7  0.2   0:11.28 postgres
+
+top - 16:22:47 up 39 days,  7:04,  4 users,  load average: 1.27, 1.31, 1.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.0 us,  1.4 sy,  0.0 ni, 90.8 id,  4.8 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16976088 free,  2692428 used,  5001460 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21424904 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  38372  36644 D  33.0  0.2   0:11.61 postgres
+
+top - 16:22:48 up 39 days,  7:04,  4 users,  load average: 1.27, 1.31, 1.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.4 us,  1.9 sy,  0.0 ni, 90.0 id,  4.7 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16976088 free,  2692428 used,  5001460 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21424904 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  38372  36644 D  34.0  0.2   0:11.95 postgres
+
+top - 16:22:49 up 39 days,  7:04,  4 users,  load average: 1.49, 1.36, 1.30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.6 us,  4.0 sy,  0.0 ni, 82.9 id,  4.6 wa,  0.0 hi,  0.9 si,  0.0 st
+KiB Mem : 24669976 total, 16976088 free,  2692428 used,  5001460 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21424904 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  38372  36644 R  35.0  0.2   0:12.30 postgres
+
+top - 16:22:50 up 39 days,  7:05,  4 users,  load average: 1.49, 1.36, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.7 us,  2.4 sy,  0.0 ni, 87.2 id,  4.3 wa,  0.0 hi,  0.3 si,  0.0 st
+KiB Mem : 24669976 total, 16976904 free,  2691492 used,  5001580 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21425836 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 D  37.0  0.2   0:12.67 postgres
+
+top - 16:22:51 up 39 days,  7:05,  4 users,  load average: 1.49, 1.36, 1.30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.9 us,  1.8 sy,  0.0 ni, 89.5 id,  4.8 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16976904 free,  2691492 used,  5001580 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21425836 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 R  34.0  0.2   0:13.01 postgres
+
+top - 16:22:52 up 39 days,  7:05,  4 users,  load average: 1.49, 1.36, 1.30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.7 us,  1.8 sy,  0.0 ni, 90.1 id,  4.4 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16976904 free,  2691492 used,  5001580 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21425836 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 R  36.0  0.2   0:13.37 postgres
+
+top - 16:22:53 up 39 days,  7:05,  4 users,  load average: 1.49, 1.36, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.5 us,  2.0 sy,  0.0 ni, 89.6 id,  4.8 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16977648 free,  2690668 used,  5001660 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21426660 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 D  33.7  0.2   0:13.71 postgres
+
+top - 16:22:54 up 39 days,  7:05,  4 users,  load average: 1.45, 1.35, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.7 us,  3.5 sy,  0.0 ni, 86.0 id,  4.5 wa,  0.0 hi,  0.3 si,  0.1 st
+KiB Mem : 24669976 total, 16977648 free,  2690668 used,  5001660 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21426660 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 D  35.0  0.2   0:14.06 postgres
+
+top - 16:22:55 up 39 days,  7:05,  4 users,  load average: 1.45, 1.35, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.8 us,  3.4 sy,  0.0 ni, 84.3 id,  4.6 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem : 24669976 total, 16977648 free,  2690668 used,  5001660 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21426660 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 D  36.0  0.2   0:14.42 postgres
+
+top - 16:22:56 up 39 days,  7:05,  4 users,  load average: 1.45, 1.35, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.8 us,  2.5 sy,  0.0 ni, 89.0 id,  4.6 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16977272 free,  2690908 used,  5001796 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21426424 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 D  36.0  0.2   0:14.78 postgres
+
+top - 16:22:57 up 39 days,  7:05,  4 users,  load average: 1.45, 1.35, 1.30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.7 us,  1.4 sy,  0.0 ni, 90.1 id,  4.7 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16977272 free,  2690908 used,  5001796 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21426424 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 R  36.0  0.2   0:15.14 postgres
+
+top - 16:22:58 up 39 days,  7:05,  4 users,  load average: 1.45, 1.35, 1.30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.1 us,  1.9 sy,  0.0 ni, 90.4 id,  4.5 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16977272 free,  2690908 used,  5001796 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21426424 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 R  35.0  0.2   0:15.49 postgres
+
+top - 16:22:59 up 39 days,  7:05,  4 users,  load average: 1.41, 1.35, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.6 us,  2.4 sy,  0.0 ni, 88.3 id,  4.6 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16976236 free,  2691880 used,  5001860 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21425448 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 D  33.7  0.2   0:15.83 postgres
+
+top - 16:23:00 up 39 days,  7:05,  4 users,  load average: 1.41, 1.35, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11.4 us,  5.8 sy,  0.0 ni, 76.6 id,  4.3 wa,  0.0 hi,  1.9 si,  0.1 st
+KiB Mem : 24669976 total, 16976236 free,  2691880 used,  5001860 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21425448 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 D  35.0  0.2   0:16.18 postgres
+
+top - 16:23:01 up 39 days,  7:05,  4 users,  load average: 1.41, 1.35, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.9 us,  2.4 sy,  0.0 ni, 89.2 id,  5.3 wa,  0.0 hi,  0.2 si,  0.0 st
+KiB Mem : 24669976 total, 16976236 free,  2691880 used,  5001860 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21425448 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 D  36.0  0.2   0:16.54 postgres
+
+top - 16:23:02 up 39 days,  7:05,  4 users,  load average: 1.41, 1.35, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.6 us,  2.0 sy,  0.0 ni, 89.6 id,  4.8 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 24669976 total, 16974268 free,  2693704 used,  5002004 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21423628 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 S  30.0  0.2   0:16.84 postgres
+
+top - 16:23:03 up 39 days,  7:05,  4 users,  load average: 1.41, 1.35, 1.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.4 us,  1.3 sy,  0.0 ni, 90.3 id,  4.9 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16974268 free,  2693704 used,  5002004 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21423628 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 S  35.0  0.2   0:17.19 postgres
+
+top - 16:23:04 up 39 days,  7:05,  4 users,  load average: 1.38, 1.34, 1.30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.5 us,  2.7 sy,  0.0 ni, 88.6 id,  5.1 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16974268 free,  2693704 used,  5002004 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21423628 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+1657916 postgres  20   0  183548  40288  38560 R  33.0  0.2   0:17.52 postgres
+
+top - 16:23:05 up 39 days,  7:05,  4 users,  load average: 1.38, 1.34, 1.30
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.5 us,  4.3 sy,  0.0 ni, 82.1 id,  3.9 wa,  0.0 hi,  1.1 si,  0.0 st
+KiB Mem : 24669976 total, 16977132 free,  2690692 used,  5002152 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21426620 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 16:23:06 up 39 days,  7:05,  4 users,  load average: 1.38, 1.34, 1.30
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  1.2 sy,  0.0 ni, 97.3 id,  0.1 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16977132 free,  2690692 used,  5002152 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21426620 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 16:23:07 up 39 days,  7:05,  4 users,  load average: 1.38, 1.34, 1.30
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  1.4 sy,  0.0 ni, 97.1 id,  0.3 wa,  0.0 hi,  0.1 si,  0.1 st
+KiB Mem : 24669976 total, 16977132 free,  2690692 used,  5002152 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21426620 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 16:23:08 up 39 days,  7:05,  4 users,  load average: 1.38, 1.34, 1.30
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  0.9 sy,  0.0 ni, 97.3 id,  0.3 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Mem : 24669976 total, 16976288 free,  2691528 used,  5002160 buff/cache
+KiB Swap:  2097148 total,  1946620 free,   150528 used. 21425800 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND

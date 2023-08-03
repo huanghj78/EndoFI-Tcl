@@ -1,0 +1,448 @@
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    0.00 B/s  0.00 %  0.00 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         5.57 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       5.72 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    5.57 M/s  0.00 % 50.62 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         4.90 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       5.21 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    4.90 M/s  0.00 % 51.77 % postgres: postgres postgres [local] INSERT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         4.50 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       5.03 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    4.50 M/s  0.00 % 55.89 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         4.44 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       4.53 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    4.44 M/s  0.00 % 53.56 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         4.22 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       4.34 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    4.22 M/s  0.00 % 51.59 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.55 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.93 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.55 M/s  0.00 % 58.45 % postgres: postgres postgres [local] idle in transaction
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.56 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.98 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.56 M/s  0.00 % 56.09 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.62 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       5.11 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.62 M/s  0.00 % 55.02 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.48 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       4.03 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.48 M/s  0.00 % 54.10 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.42 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.42 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.42 M/s  0.00 % 53.91 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.38 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.56 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.38 M/s  0.00 % 54.54 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.26 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.64 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.26 M/s  0.00 % 54.00 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.25 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.56 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.25 M/s  0.00 % 53.77 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.37 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.40 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.37 M/s  0.00 % 54.20 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.25 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.52 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.25 M/s  0.00 % 54.52 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.19 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.42 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.19 M/s  0.00 % 53.80 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.09 M/s
+Current DISK READ:      91.80 K/s | Current DISK WRITE:       3.38 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.09 M/s  0.00 % 54.92 % postgres: postgres postgres [local] idle in transaction
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.19 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.40 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.19 M/s  0.00 % 51.21 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         2.70 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.34 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    2.70 M/s  0.00 % 45.33 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:     239.36 K/s | Current DISK WRITE:       3.99 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    0.00 B/s  0.00 %  0.00 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       250.87 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     582.59 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s  250.87 M/s  0.00 %  0.16 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       298.42 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     594.26 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s  298.42 M/s  0.00 %  0.00 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       276.36 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1013.15 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s  276.36 M/s  0.00 %  0.00 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       204.14 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     295.05 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s  204.14 M/s  0.00 %  0.00 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       329.11 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1124.20 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s  329.11 M/s  0.00 %  0.16 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       412.87 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     662.11 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s  412.87 M/s  0.00 %  0.27 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       423.79 M/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:      53.37 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s  423.79 M/s  0.00 %  0.00 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       240.85 M/s
+Current DISK READ:      31.90 K/s | Current DISK WRITE:      87.29 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s  240.85 M/s  0.00 %  1.30 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       413.59 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      91.98 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s  413.59 M/s  0.00 %  2.53 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       336.22 M/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:      86.63 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s  336.22 M/s  0.00 %  0.98 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        22.39 M/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:      80.60 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   22.39 M/s  0.00 % 81.44 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        15.94 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      90.04 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   15.94 K/s  0.00 % 71.76 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        15.95 K/s
+Current DISK READ:      95.68 K/s | Current DISK WRITE:      59.19 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   15.95 K/s  0.00 % 99.99 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        62.18 K/s
+Current DISK READ:       3.89 K/s | Current DISK WRITE:      91.71 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   62.18 K/s  0.00 % 62.82 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        15.94 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      93.85 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   15.94 K/s  0.00 % 99.99 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        15.96 K/s
+Current DISK READ:      71.81 K/s | Current DISK WRITE:      73.98 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   15.96 K/s  0.00 % 99.99 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.98 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      56.07 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    7.98 K/s  0.00 % 70.50 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        47.86 K/s
+Current DISK READ:     394.88 K/s | Current DISK WRITE:      84.15 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   47.86 K/s  0.00 % 99.99 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        23.94 K/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:      65.02 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   23.94 K/s  0.00 % 87.08 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.64 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      86.24 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    7.64 K/s  0.00 % 99.99 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.98 K/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:      83.34 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    7.98 K/s  0.00 %  0.93 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       797.80 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      47.81 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s  797.80 K/s  0.00 % 99.99 % postgres: postgres postgres [local] idle in transaction
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.06 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.25 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.06 M/s  0.00 % 50.73 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.17 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.40 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.17 M/s  0.00 % 53.19 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.25 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.24 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.25 M/s  0.00 % 55.39 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.23 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.52 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.23 M/s  0.00 % 53.54 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         2.04 M/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:      57.20 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    2.04 M/s  0.00 % 34.87 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        15.96 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      83.97 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   15.96 K/s  0.00 % 98.71 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        23.94 K/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:      93.99 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   23.94 K/s  0.00 % 99.99 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.98 K/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:      59.99 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    7.98 K/s  0.00 % 71.91 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        23.94 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      93.97 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   23.94 K/s  0.00 % 91.06 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        31.91 K/s
+Current DISK READ:      19.94 K/s | Current DISK WRITE:      89.81 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   31.91 K/s  0.00 % 87.71 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.98 K/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:      69.90 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    7.98 K/s  0.00 % 90.64 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        47.87 K/s
+Current DISK READ:       7.98 K/s | Current DISK WRITE:      99.97 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   47.87 K/s  0.00 % 85.01 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        15.52 K/s
+Current DISK READ:       3.88 K/s | Current DISK WRITE:      97.25 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   15.52 K/s  0.00 % 99.99 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        23.94 K/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:     107.88 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   23.94 K/s  0.00 % 98.94 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.98 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      81.81 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    7.98 K/s  0.00 % 94.62 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        12.47 K/s
+Current DISK READ:       3.12 K/s | Current DISK WRITE:      76.53 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   12.47 K/s  0.00 % 58.99 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        31.92 K/s
+Current DISK READ:      83.80 K/s | Current DISK WRITE:     127.76 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   31.92 K/s  0.00 % 99.98 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        15.96 K/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:      75.82 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   15.96 K/s  0.00 % 77.03 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         6.08 K/s
+Current DISK READ:       3.04 K/s | Current DISK WRITE:      99.49 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    6.08 K/s  0.00 % 83.65 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      41.26 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    0.00 B/s  0.00 %  0.00 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        15.08 K/s
+Current DISK READ:       3.77 K/s | Current DISK WRITE:      79.50 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   15.08 K/s  0.00 % 42.27 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        15.96 K/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:      85.83 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   15.96 K/s  0.00 % 66.87 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        15.96 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      85.83 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   15.96 K/s  0.00 % 65.74 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        20.97 K/s
+Current DISK READ:       3.50 K/s | Current DISK WRITE:      77.09 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   20.97 K/s  0.00 % 99.99 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        23.94 K/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:      81.95 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   23.94 K/s  0.00 % 99.99 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        23.94 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      86.28 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s   23.94 K/s  0.00 % 90.64 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       534.62 K/s
+Current DISK READ:       3.99 K/s | Current DISK WRITE:      64.51 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s  534.62 K/s  0.00 % 99.99 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.09 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.46 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.09 M/s  0.00 % 53.71 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         2.84 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       2.94 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    2.84 M/s  0.00 % 46.38 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         2.92 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.20 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    2.92 M/s  0.00 % 66.67 % postgres: postgres postgres [local] idle
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.21 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.30 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.21 M/s  0.00 % 53.08 % postgres: postgres postgres [local] idle
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.15 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       4.57 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.15 M/s  0.00 % 52.65 % postgres: postgres postgres [local] idle in transaction
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.15 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.17 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.15 M/s  0.00 % 52.68 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.16 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.43 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.16 M/s  0.00 % 52.54 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.09 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.07 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.09 M/s  0.00 % 52.89 % postgres: postgres postgres [local] idle
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.12 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.49 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.12 M/s  0.00 % 52.71 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.13 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.11 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.13 M/s  0.00 % 53.69 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.40 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.97 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.40 M/s  0.00 % 52.46 % postgres: postgres postgres [local] idle in transaction
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.57 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.59 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.57 M/s  0.00 % 57.12 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.51 M/s
+Current DISK READ:      23.93 K/s | Current DISK WRITE:       3.99 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.51 M/s  0.00 % 55.15 % postgres: postgres postgres [local] idle in transaction
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.44 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.47 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.44 M/s  0.00 % 55.85 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.61 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.84 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.61 M/s  0.00 % 55.29 % postgres: postgres postgres [local] INSERT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.49 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.68 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.49 M/s  0.00 % 52.14 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.43 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.65 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.43 M/s  0.00 % 55.38 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.37 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.40 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.37 M/s  0.00 % 53.86 % postgres: postgres postgres [local] SELECT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         2.95 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.30 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    2.95 M/s  0.00 % 62.34 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.14 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.14 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.14 M/s  0.00 % 59.95 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.33 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.73 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.33 M/s  0.00 % 57.05 % postgres: postgres postgres [local] idle in transaction
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.30 M/s
+Current DISK READ:      27.94 K/s | Current DISK WRITE:       3.33 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.30 M/s  0.00 % 58.66 % postgres: postgres postgres [local] idle in transaction
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.14 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.38 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.14 M/s  0.00 % 55.88 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.36 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.47 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.36 M/s  0.00 % 56.45 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.40 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.60 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.40 M/s  0.00 % 57.58 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.37 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.46 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.37 M/s  0.00 % 58.89 % postgres: postgres postgres [local] idle in transaction
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.55 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.95 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.55 M/s  0.00 % 53.39 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.35 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.37 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.35 M/s  0.00 % 57.52 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.16 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.53 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.16 M/s  0.00 % 59.43 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         2.52 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       2.52 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    2.52 M/s  0.00 % 65.40 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.33 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.62 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.33 M/s  0.00 % 57.94 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.41 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.56 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.41 M/s  0.00 % 55.24 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.41 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.66 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.41 M/s  0.00 % 57.09 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.41 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.51 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.41 M/s  0.00 % 57.64 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.14 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.26 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.14 M/s  0.00 % 57.12 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.45 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       4.67 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.45 M/s  0.00 % 57.71 % postgres: postgres postgres [local] idle in transaction
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.62 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.81 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.62 M/s  0.00 % 54.55 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.56 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.73 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.56 M/s  0.00 % 54.10 % postgres: postgres postgres [local] COMMIT
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.35 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.57 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+3924274 be/4 postgres    0.00 B/s    3.35 M/s  0.00 % 56.77 % postgres: postgres postgres [local] UPDATE
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     602.98 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     179.66 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:     235.53 K/s | Current DISK WRITE:     331.34 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      71.86 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND

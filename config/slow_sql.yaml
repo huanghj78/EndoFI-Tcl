@@ -1,0 +1,9 @@
+type: slow_sql
+args: 
+client: 
+  ip: 172.17.0.4
+  port: 37508
+duration: 500
+filter: "INSERT"
+pid: 235550
+

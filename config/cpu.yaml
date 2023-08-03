@@ -1,0 +1,11 @@
+type: cpu
+args:
+  cpu_usage: 90
+  slope_time: 10
+client: 
+  ip: 172.17.0.4
+  port: 51672
+duration: 500
+filter: "no"
+pid: 224122
+

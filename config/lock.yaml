@@ -1,0 +1,9 @@
+type: lock
+args:
+  relation_id: 16388
+client: 
+  ip: 172.17.0.4
+  port: 37508 
+duration: 15000
+filter: insert*
+
